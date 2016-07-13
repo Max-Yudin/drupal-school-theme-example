@@ -1,0 +1,8 @@
+name: Max Yudin theme
+type: theme
+base theme: bartik
+description: 'Custom theme example based on bartik theme'
+package: Addons
+core: 8.x
+libraries:
+  - max_yudin/base

@@ -1,0 +1,10 @@
+
+h1.node-odd {
+    background: #eae9e9;
+    font-size: 2em;
+}
+
+h3.node-even {
+    background: #aaa;
+    font-size: 1.5em;
+}
